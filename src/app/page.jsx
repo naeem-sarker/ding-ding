@@ -4,7 +4,7 @@ import HeroSection from "@/components/home/HeroSection";
 
 const Home = () => {
   return (
-    <div className="bg-[#E65127]">
+    <div className="bg-[#E65127] h-screen">
       <div className="flex flex-col justify-center items-center px-5">
         <div className="max-w-[1080px] h-screen">
           <Navbar />
