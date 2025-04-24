@@ -16,7 +16,7 @@ const HeroSection = () => {
         </h3>
         <div className="mt-6">
           <Link
-            href={"/"}
+            href={"/login"}
             className="text-[#E65127] bg-white py-3 px-10 sm:px-16 md:px-24 text-lg rounded-md inline-block"
           >
             Sign Up
